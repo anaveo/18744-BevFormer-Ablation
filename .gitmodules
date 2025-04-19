@@ -1,3 +1,6 @@
 [submodule "data/nuScenes/nuscenes-devkit"]
 	path = data/nuScenes/nuscenes-devkit
 	url = https://github.com/nutonomy/nuscenes-devkit.git
+[submodule "models/BEVFormer/BEVFormer"]
+	path = models/BEVFormer/BEVFormer
+	url = https://github.com/fundamentalvision/BEVFormer
